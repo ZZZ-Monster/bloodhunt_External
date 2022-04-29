@@ -1,0 +1,119 @@
+﻿  main.cpp
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\offset.h(148,37): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\offset.h(149,38): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\function.h(19,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: “DXGI_STATUS_OCCLUDED”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : 参见“DXGI_STATUS_OCCLUDED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: “DXGI_STATUS_CLIPPED”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : 参见“DXGI_STATUS_CLIPPED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: “DXGI_STATUS_NO_REDIRECTION”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : 参见“DXGI_STATUS_NO_REDIRECTION”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: “DXGI_STATUS_NO_DESKTOP_ACCESS”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : 参见“DXGI_STATUS_NO_DESKTOP_ACCESS”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: “DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : 参见“DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: “DXGI_STATUS_MODE_CHANGED”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : 参见“DXGI_STATUS_MODE_CHANGED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: “DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : 参见“DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: “DXGI_ERROR_INVALID_CALL”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : 参见“DXGI_ERROR_INVALID_CALL”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: “DXGI_ERROR_NOT_FOUND”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : 参见“DXGI_ERROR_NOT_FOUND”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: “DXGI_ERROR_MORE_DATA”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : 参见“DXGI_ERROR_MORE_DATA”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: “DXGI_ERROR_UNSUPPORTED”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : 参见“DXGI_ERROR_UNSUPPORTED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: “DXGI_ERROR_DEVICE_REMOVED”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : 参见“DXGI_ERROR_DEVICE_REMOVED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: “DXGI_ERROR_DEVICE_HUNG”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : 参见“DXGI_ERROR_DEVICE_HUNG”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: “DXGI_ERROR_DEVICE_RESET”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : 参见“DXGI_ERROR_DEVICE_RESET”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: “DXGI_ERROR_WAS_STILL_DRAWING”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : 参见“DXGI_ERROR_WAS_STILL_DRAWING”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: “DXGI_ERROR_FRAME_STATISTICS_DISJOINT”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : 参见“DXGI_ERROR_FRAME_STATISTICS_DISJOINT”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: “DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : 参见“DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: “DXGI_ERROR_DRIVER_INTERNAL_ERROR”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : 参见“DXGI_ERROR_DRIVER_INTERNAL_ERROR”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: “DXGI_ERROR_NONEXCLUSIVE”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : 参见“DXGI_ERROR_NONEXCLUSIVE”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: “DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : 参见“DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: “DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : 参见“DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: “DXGI_ERROR_REMOTE_OUTOFMEMORY”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : 参见“DXGI_ERROR_REMOTE_OUTOFMEMORY”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56865): message : 参见“D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: “D3D11_ERROR_FILE_NOT_FOUND”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56874): message : 参见“D3D11_ERROR_FILE_NOT_FOUND”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56884): message : 参见“D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: “D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56893): message : 参见“D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: “D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : 参见“D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”的前一个定义
+D:\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: “D3D10_ERROR_FILE_NOT_FOUND”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : 参见“D3D10_ERROR_FILE_NOT_FOUND”的前一个定义
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\overlay.h(39,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\overlay.h(155,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\overlay.h(155,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\overlay.h(155,16): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\overlay.h(155,13): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(6,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: “M_PI”: 宏重定义
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\offset.h(22): message : 参见“M_PI”的前一个定义
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(127,70): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(127,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(131,64): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(131,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(162,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(166,93): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(166,45): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(337,32): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(338,32): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(476,37): warning C4244: “=”: 从“uint64_t”转换到“DWORD”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\main.cpp(479,10): warning C4129: “ ”: 不可识别的字符转义序列
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\offset.h(148,37): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\singleton.h(17): message : 在编译 类 模板 成员函数“T &Singleton<T>::Get(void)”时
+          with
+          [
+              T=BloodHunt::Variables
+          ]
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\function.h(101): message : 查看对正在编译的函数 模板 实例化“T &Singleton<T>::Get(void)”的引用
+          with
+          [
+              T=BloodHunt::Variables
+          ]
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\offset.h(133): message : 查看对正在编译的 类 模板 实例化“Singleton<BloodHunt::Variables>”的引用
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\offset.h(149,38): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\Mhyprot\baseadress.h(19,30): warning C4244: “参数”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\function.h(109): message : 查看对正在编译的函数 模板 实例化“bool read_array<char>(uint64_t,T *,size_t)”的引用
+          with
+          [
+              T=char
+          ]
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\Mhyprot\baseadress.h(11,31): warning C4244: “参数”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\Mhyprot\baseadress.h(25): message : 查看对正在编译的函数 模板 实例化“bool read<T>(uint64_t,T &)”的引用
+          with
+          [
+              T=DWORD_PTR
+          ]
+C:\Users\zhangpeng\Desktop\HackExternal\HackExternal\function.h(82): message : 查看对正在编译的函数 模板 实例化“T read<DWORD_PTR>(uint64_t)”的引用
+          with
+          [
+              T=DWORD_PTR
+          ]
+  正在生成代码
+  1 of 1910 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  HackExternal.vcxproj -> C:\Users\zhangpeng\Desktop\HackExternal\x64\Release\HackExternal.exe
